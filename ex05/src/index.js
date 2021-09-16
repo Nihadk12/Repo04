@@ -6,6 +6,6 @@ function main(numOne, numTwo) {
     return product;
 }
 
-console.log(main(2.0,2.5).toFixed(1));
+console.log(main(2.5,2.0));
 
 module.exports = main;
