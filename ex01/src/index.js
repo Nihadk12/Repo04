@@ -3,7 +3,7 @@ function main(numOne, numTwo) {
 
     //Only change code below this line
     
-    if (numTwo == 0) {
+    if (numTwo === 0) {
         quotient = "divide by 0! Cannot divide by zero!";
     }else
         quotient = numOne / numTwo;
@@ -13,6 +13,6 @@ function main(numOne, numTwo) {
     //Only change code apove this line
 }
 
-console.log(main(20,0));
+console.log(main(15,3));
 
 module.exports = main;

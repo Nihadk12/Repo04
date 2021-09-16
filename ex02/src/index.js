@@ -5,9 +5,8 @@ function main() {
     
     myRes ++;
 
-        return myRes;;
-
     //Only change code apove this line
+    return myRes;
 }
 
 console.log(main());

@@ -1,5 +1,7 @@
 function main() {
-    var mX = 12, mY=19, mZ=24;
+    var mX = 12;
+    var mY=19;
+    var mZ=24;
    //only change code below this line
   mX += 3;
   mY += 17;

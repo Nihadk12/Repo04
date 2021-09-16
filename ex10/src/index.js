@@ -1,5 +1,7 @@
 function main() {
-    var myFirstName = "Nihad", myLastName="Kadic", myHomeTown="Gracanica";
+    var myFirstName = "Nihad";
+    var myLastName="Kadic";
+    var myHomeTown="Gracanica";
    //only change code below this line
    
    //only change code apove this line

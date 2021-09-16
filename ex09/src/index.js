@@ -1,5 +1,7 @@
 function main() {
-    var firstNum = 6 , secondNum = 25, thirdNum = 5.2;
+    var firstNum = 6;
+    var secondNum = 25;
+    var thirdNum = 5.2;
    //only change code below this line
   
     firstNum*=9;
